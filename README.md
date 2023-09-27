@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently seeking new jobs
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning chatgpt, langchain, llama 2
 - 👯 I’m looking to collaborate on long-term projects
 - 🤔 I’m looking for help with python programming
